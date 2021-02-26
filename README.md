@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm Tommaso Battistini!
 
-- 🌱 I’m currently studying for an MSc in computer science, with particular focus on learning techniques. 
-- 🔭 I’m currently working on:
+-  I’m currently studying for an MSc in computer science, with particular focus on learning techniques. 
+-  I’m currently working on:
   - A tool capable of analyzing and classifying python programs based on their "readability".
   - A reinforcement learning based chess AI.
 
