@@ -1,4 +1,4 @@
-### Hello there 👋 I'm Tommaso Battistini!
+### Hello there 👋   I'm Tommaso Battistini!
 
 -  I’m currently studying for an MSc in computer science, with particular focus on learning techniques. 
 -  I’m currently working on:
