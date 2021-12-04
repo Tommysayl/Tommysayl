@@ -1,6 +1,6 @@
 ### Hello there 👋   I'm Tommaso!
 
--  I’m currently studying for a MSc in computer science, with particular focus on learning techniques. 
+-  I’m currently interested in SotA techniques for natural language processing and sequence prediction for crypto/financial markets!
 
 
 #### Languages and Tools:
