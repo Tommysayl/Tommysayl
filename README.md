@@ -1,6 +1,6 @@
 ### Hello there 👋   I'm Tommaso!
 
--  I’m currently interested in SotA techniques for natural language processing and sequence prediction for crypto/financial markets!
+-  Studying to become a web 3 developer, working on projects on the cardano and algorand blockchains
 
 
 #### Languages and Tools:
