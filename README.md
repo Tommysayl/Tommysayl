@@ -1,6 +1,6 @@
 ### Hello there 👋   I'm Tommaso!
 
--  Studying to become a web 3 developer, working on projects on the cardano and algorand blockchains
+-  Studied to become a machine learning developer, but also worked on projects on the cardano and algorand blockchains
 
 
 #### Languages and Tools:
