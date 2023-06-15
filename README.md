@@ -1,6 +1,8 @@
 ### Hello there 👋   I'm Tommaso!
 
--  Studied to become a machine learning developer, but also worked on projects on the cardano and algorand blockchains
+-  I focused on machine learning state-of-the-art techniques during my academic formation
+-  I worked as a blockchain developer (Cardano) on a personal project for 1 year
+-  Now working as a gcp cloud engineer at Target Reply Rome
 
 
 #### Languages and Tools:
