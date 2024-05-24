@@ -1,8 +1,8 @@
 ### Hello there 👋   I'm Tommaso!
 
--  I focused both on machine learning SotA techniques and Web3 App developement during my academic formation
+-  I had the chance to delve both into machine learning SotA techniques and Web3 App developement during my academic formation
 -  I worked as a blockchain developer (Cardano) on a personal project for 1 year
--  Now working as a software developer at Target Reply Rome
+-  Now working as a software developer at Xister Reply
 
 
 #### Languages and Tools:
