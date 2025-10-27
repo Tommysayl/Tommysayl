@@ -2,7 +2,7 @@
 
 -  I had the chance to delve both into machine learning SotA techniques and Web3 App developement during my academic formation
 -  I worked as a blockchain developer (Cardano) for 2 start-ups between 2021-22
--  Now working as a software engineer at Xister Reply.
+-  Working as an IT Consultant for Reply since April 2023.
 
 
 #### Languages and Tools:
